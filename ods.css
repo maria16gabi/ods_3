@@ -1,0 +1,42 @@
+
+#titulo {
+    text-align: center;
+    color: rgb(117, 15, 15);
+    font-size: 40px;
+    letter-spacing: 8px;
+}
+
+#titulo {
+    text-align: center;
+    color: rgb(117, 15, 15);
+    font-size: 40px;
+    letter-spacing: 8px;
+}
+
+#corpodotexto {
+    text-align: justify;
+    color: rgb(209, 231, 13);
+    text-indent: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#nomes {
+    text-align: right;
+    background-color: rgb(25, 97, 55);
+    color: chartreuse;
+}
+
+#bordas {
+    color: rgb(2, 32, 3);
+    border: 3px rgb(7, 255, 19) solid;
+    text-align: justify;
+    padding: 10px 70px 30px 50px;
+
+}
+
+#novo {
+    color: rgb(42, 59, 212);
+    border: 10px rgb(96, 180, 18) solid;
+    text-align: justify;
+    -padding: 30px 10px 70px 50px;
+}
