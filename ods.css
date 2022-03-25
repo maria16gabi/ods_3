@@ -1,16 +1,42 @@
-
-#titulo {
+#sub {
     text-align: center;
-    color: rgb(117, 15, 15);
-    font-size: 40px;
-    letter-spacing: 8px;
+    color: rgb(4, 66, 58);
+    font-size: 30px;
+    letter-spacing: 3px;
 }
 
 #titulo {
     text-align: center;
-    color: rgb(117, 15, 15);
-    font-size: 40px;
-    letter-spacing: 8px;
+    color: rgb(10, 74, 148);
+    font-size: 50px;
+    letter-spacing: 6px;
+}
+#obj1 {
+    text-align: center;
+    color: rgb(110, 8, 8);
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+#obj11 {
+    text-align: center;
+    color: rgb(206, 9, 58);
+    font-size: 50px;
+    letter-spacing: 6px;
+}
+
+#obj2 {
+    text-align: center;
+    color: rgb(126, 93, 2);
+    font-size: 30px;
+    letter-spacing: 3px;
+}
+
+#obj22 {
+    text-align: center;
+    color: rgb(219, 184, 70);
+    font-size: 50px;
+    letter-spacing: 6px;
 }
 
 #corpodotexto {
@@ -19,24 +45,29 @@
     text-indent: 40px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
-
 #nomes {
-    text-align: right;
-    background-color: rgb(25, 97, 55);
-    color: chartreuse;
+    text-align: justify;
+    background-color: rgb(235, 188, 196);
+    color: rgb(112, 3, 3);
+    -padding: 10px 10px 10px 10px;
 }
 
 #bordas {
-    color: rgb(2, 32, 3);
-    border: 3px rgb(7, 255, 19) solid;
+    color: rgb(116, 5, 5);
+    border: 10px rgb(134, 7, 28) solid;
     text-align: justify;
-    padding: 10px 70px 30px 50px;
+    padding: 10px 10px 10px 10px;
 
 }
-
-#novo {
-    color: rgb(42, 59, 212);
-    border: 10px rgb(96, 180, 18) solid;
+#quadrado {
+    color: rgb(168, 130, 6);
+    border: 10px rgb(238, 216, 17) solid;
     text-align: justify;
-    -padding: 30px 10px 70px 50px;
+    -padding: 10px 10px 10px 10px;
+
+}
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
 }
